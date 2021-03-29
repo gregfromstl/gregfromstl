@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-[<img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fhelp.twitter.com%2Fen%2Fusing-twitter%2Fhow-to-tweet&psig=AOvVaw2ZEqqVS8z_mXVIwHk_LJGn&ust=1617141641672000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCNi0_ZzA1u8CFQAAAAAdAAAAABAD">](https://twitter.com/gregrolwes)
+[<img src="http://i.imgur.com/tXSoThF.png">](https://twitter.com/gregrolwes)
 <!--
 **gregrolwes/gregrolwes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
