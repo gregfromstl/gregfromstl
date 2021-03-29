@@ -13,4 +13,4 @@ Experience in...
 - 🍎 Teaching
 - 🔬 Deep Learning Research
 
-**Find me on [<img src="http://i.imgur.com/tXSoThF.png">](https://twitter.com/gregrolwes)**
+**Find me on [<img src="http://i.imgur.com/wWzX9uB.png">](https://twitter.com/gregrolwes)**
