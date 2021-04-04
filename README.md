@@ -1,5 +1,5 @@
 # Hey 👋
-### My goal is to develop accessible learning mediums for anyone who doesn't excel in traditional education environments (i.e. schools).
+### My goal is to develop tools designed for spontaneous, organic learning.
 
 Interested in...
 - 🌱 Education
