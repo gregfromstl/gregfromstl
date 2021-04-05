@@ -1,5 +1,5 @@
 # Hey 👋
-### My goal is to develop tools for spontaneous, organic learning.
+### My goal is to develop tools for spontaneous, organic, and inclusive learning.
 
 Interested in...
 - 🌱 Education
