@@ -8,9 +8,9 @@ Interested in...
 - 🧠 Deep Learning
 
 Experience in...
-- 📈 Data Forecasting
 - 💻 Web Development
 - 🍎 Teaching
 - 🔬 Deep Learning Research
+- 📈 Data Forecasting
 
 **Find me on [<img src="http://i.imgur.com/wWzX9uB.png">](https://twitter.com/gregrolwes) or at my [website](https://gregrolwes.com)**
