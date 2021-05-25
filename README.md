@@ -2,7 +2,9 @@ My **goal** is to promote spontaneous, organic, and inclusive learning 📚
 
 In my **day-to-day**, I'm interested in the strategy, design, and development of bottom-up learning tools and communities
 
+
 🎨 I design in Figma and Illustrator
+
 💻 I develop in Node.js, Python, and Go
 
 ---
