@@ -5,7 +5,7 @@ In my **day-to-day**, I'm interested in the strategy, design, and development of
 
 🎨  .  I design in Figma and Illustrator
 
-💻  .  I develop in Node.js, Python, and Go
+💻  .  I develop in Node.js, Python, and (soon) Go
 
 ---
 **Find me on [<img src="http://i.imgur.com/wWzX9uB.png">](https://twitter.com/gregrolwes) or at my [website](https://gregrolwes.com)**
