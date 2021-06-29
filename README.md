@@ -1,7 +1,4 @@
-My **goal** is to promote spontaneous, organic, and inclusive learning 📚
-
-In my **day-to-day**, I'm interested in the strategy, design, and development of bottom-up learning tools and communities
-
+Building organic pathways towards better learning + work.
 
 🎨    Designing in Figma and Illustrator
 
