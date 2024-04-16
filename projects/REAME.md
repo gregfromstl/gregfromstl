@@ -20,6 +20,6 @@ A frame and app to determine your position on the political compass based on you
 ### [Farcaster Support Agent](https://github.com/gregfromstl/gregfromstl/blob/main/projects/Farcaster%20Support%20Agent.md)
 An AI agent trained on the Farcaster documentation to answer questions within a frame or via XMTP.
 
-### March 2024
+## March 2024
 ### [Farcaster Thirdweb Extension](https://github.com/gregfromstl/gregfromstl/blob/main/projects/Farcaster%20Thirdweb%20Extension.md)
 An SDK for interacting with the Farcaster contracts.
