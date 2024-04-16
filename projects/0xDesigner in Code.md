@@ -1,7 +1,10 @@
+# 0xDesigner in Code
+
 A collection of [0xDesigner's](https://twitter.com/0xDesigner) concepts, implemented in code.
 
-Repository: https://github.com/gregfromstl/web3-concepts
-Demos:
+You can find all the code [here](https://github.com/gregfromstl/web3-concepts).
+
+### Demos:
 - [Stake to Super Like Tinder](https://twitter.com/gregfromstl/status/1707480007747240012/video/1)
 - [PFP Dating App](https://twitter.com/gregfromstl/status/1707805387565707308/video/1)
 - [Mint and Send](https://twitter.com/gregfromstl/status/1708267295452369070/video/1)
