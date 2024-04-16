@@ -14,7 +14,12 @@ A dashboard for creating and managing Farcaster accounts not bound to any client
 
 ## February 2024
 ### [Devcaster](https://github.com/gregfromstl/gregfromstl/blob/main/projects/Devcaster.md)
+A library for declaratively creating stateful frames within JSX.
+### [Farcaster Political Compass](https://github.com/gregfromstl/gregfromstl/blob/main/projects/Farcaster%20Political%20Compass.md)
+A frame and app to determine your position on the political compass based on your casts.
+### [Farcaster Support Agent](https://github.com/gregfromstl/gregfromstl/blob/main/projects/Farcaster%20Support%20Agent.md)
+An AI agent trained on the Farcaster documentation to answer questions within a frame or via XMTP.
 
 ### March 2024
-
-
+### [Farcaster Thirdweb Extension](https://github.com/gregfromstl/gregfromstl/blob/main/projects/Farcaster%20Thirdweb%20Extension.md)
+An SDK for interacting with the Farcaster contracts.
