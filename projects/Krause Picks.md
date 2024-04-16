@@ -4,4 +4,6 @@ Krause Picks was a daily NBA pick 'em game built in collaboration with Krause Ho
 
 The application was sunset after the 2023 regular season, but you can find the code [here](https://github.com/gregfromstl/krause-picks).
 
-https://x.com/gregfromstl/status/1716993983342342182
+
+https://github.com/gregfromstl/gregfromstl/assets/17715009/aafbe51c-e778-43a5-8eec-3186414d6325
+
