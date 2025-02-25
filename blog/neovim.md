@@ -1,4 +1,4 @@
-# 11 Things I Learned After 12 Months of Neovim
+# 11 Things I've Learned After 12 Months of Neovim
 
 Exactly 12 months ago today, I setup Neovim for the first time. What started as curiosity has since changed the way I write and read code for the better. I thought I'd share why after 12 months I exclusively use and advocate for Neovim over other IDEs.
 
