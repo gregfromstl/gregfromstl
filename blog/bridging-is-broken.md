@@ -4,6 +4,8 @@ Routing assets is the most critical piece to the rollup-centric roadmap. Without
 
 Bridging speed, convenience, and reliability continue to improve for EVM rollups every day. You can visit any number of bridging sites and move your funds from one chain to another in a matter of seconds. But, bridges still stand isolated from the typical application experience. If a user wants to use an app on a new chain, they have to navigate to a dedicated site. Only after bridging their funds can they use the app they intended to in the first place. True multichain app UX includes “just-in-time” asset routing. The user doesn’t need to worry about bridges, chains, or anything besides the app they’re using. To reach such a user experience, there are a few barriers present in most modern bridges.
 
+---
+
 ### Challenge 1: Expected Outputs
 Many existing bridges use an input-first approach to bridge requests/intents. In these cases, users tell the bridge how much of the input asset they’re willing to pay. The bridge returns an output amount based on fees, slippage, dutch auction settlement, and other factors.
 
@@ -12,6 +14,8 @@ This protects the bridge or solvers from potential losses. When the output is fl
 As a user, this approach is problematic. When bridging funds, you’re often doing so with an intended action on the destination chain in mind. That action requires a certain number of funds to complete. If a user doesn’t know what amount they’ll receive, they’ll always have to send extra assets to account for any potential difference. This leaves those assets on the destination chain and isolated from your other funds. We’ve all experienced this with a “dusting” of various tokens across different chains.
 
 _Note: One bridging provider (Relay), does allow for “exact output” routing. This is a 10X improvement on both developer and user experience. This isn’t easy though. Because most other bridges and DEXes don’t support anything like it, a lot more has to go into constructing those routes. All contracts or protocols should be designed with output-centric requests in mind._
+
+---
 
 ### Challenge 2: Extra Fees
 “Extra fees” are any required assets besides the ones you intend to use. Gas fees are the quintessential example of this, and smart account gas sponsorship has solved gas-related UX problems. But, gas sponsorship doesn’t apply to bridge fees.
@@ -22,7 +26,10 @@ This convenience for the bridge becomes a severe inconvenience for users. If the
 
 All bridges and DEXes need to quote their fees in the input token. Many do, but it needs to be a universal expectation and standard.
 
+---
+
 ### Challenge 3: “One size fits all”
+
 Over the past few years, countless bridging methods have attempted to solve the UX problems of the rollup-centric roadmap. Each one of these carries their own unique benefits and tradeoffs. It takes a combination of them to ensure complete asset and chain coverage across all EVM chains. Bridges today tend to focus on a single strategy, forcing developers to choose which tradeoffs to accept.
 
 Intents are fast and inexpensive but solvers don’t operate on newer chains or handle lower liquidity tokens. Lock-and-mint contracts allow any token to exist anywhere but lead to wrapped token fragmentation. Native bridges are cost-effective, reliable, and available on all chains but are much slower. Each solution has its drawbacks, and picking one is settling for a limited feature set.
