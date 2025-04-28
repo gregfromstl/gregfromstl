@@ -1,5 +1,5 @@
 # Expensive Skills
-Not every skill exists in the same dimension. It’s the difference between the casual fan or hobbyist practitioner and the professional athlete or master craftsman. I call the former “inexpensive skills” and the latter “expensive skills”. Inexpensive skills are quick to get and plentiful in supply. Expensive skills are difficult to acquire, to the extent they become rare and sought after.
+Not every skill exists in the same dimension. It’s the difference between the hobbyist practitioner and the master craftsman. I call the former “inexpensive skills” and the latter “expensive skills”. Inexpensive skills are quick to get and plentiful in supply. Expensive skills are difficult to acquire, to the extent they become rare and sought after.
 
 1. Expensive skills are rare (limited supply)
 2. Expensive skills are desirable (excessive demand)
