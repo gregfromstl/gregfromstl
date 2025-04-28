@@ -3,6 +3,8 @@ Not every skill exists in the same dimension. It’s the difference between the 
 
 1. Expensive skills are rare (limited supply)
 2. Expensive skills are desirable (excessive demand)
+   
+<img width="952" alt="Screenshot 2025-04-28 at 10 20 55 AM" src="https://github.com/user-attachments/assets/f7e0f49d-d3b1-4f46-9ebf-8bf2a47d93ad" />
 
 Many expensive skills can fall into the same category as an inexpensive skill but differ beyond a simple level of expertise. Sports are a great example here. Many people know how to play baseball. They know the rules and can follow along as they watch a game. They may have even played on a team growing up. Much fewer people can understand the game of baseball the way a major league player might. The way the pitcher grips the ball, how the batter reads the spin mid-throw, or how to foul off a pitch in the zone that isn’t quite where you’d like it. If you listen to a casual baseball fan recall a game you’ll notice a difference compared to a player would. The difference between expensive and inexpensive skills is the difference between being on the field and in the bleachers.
 
