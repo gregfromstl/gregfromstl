@@ -20,4 +20,4 @@ The world has never made it easier to pick up inexpensive skills. A few hours, a
 
 ---
 
-If you want to explore this topic in greater detail, I recommend reading Hyperion and The Fall of Hyperion.
+If you want to explore this topic in greater detail, I recommend reading _Hyperion_ and _The Fall of Hyperion_.
