@@ -2,9 +2,8 @@
 ---
 Not every skill exists in the same dimension. It’s the difference between the casual fan or hobbyist practitioner and the professional athlete or master craftsman. I call the former “inexpensive skills” and the latter “expensive skills”. Inexpensive skills are quick to get and plentiful in supply. Expensive skills are difficult to acquire, to the extent they become rare and sought after.
 
-Expensive skills are rare (limited supply)
-
-Expensive skills are desirable (excessive demand)
+1. Expensive skills are rare (limited supply)
+2. Expensive skills are desirable (excessive demand)
 
 Many expensive skills can fall into the same category of an inexpensive skill but differ beyond a simple level of expertise. Sports are a great example here. Many people know how to play baseball. They know the rules and can follow along as they watch a game. They may have even played on a team growing up. Much fewer people can understand the game of baseball the way a major league player might. The way the pitcher grips the ball, how the batter reads the spin mid-throw, or how to foul off a pitch in the zone that isn’t quite where you’d like it. If you listen to a casual baseball fan recall a game you’ll notice a difference compared to a player would. The difference between expensive and inexpensive skills is the difference between being on the field and in the bleachers.
 
