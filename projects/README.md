@@ -23,3 +23,11 @@ An AI agent trained on the Farcaster documentation to answer questions within a 
 ## March 2024
 ### [Farcaster Thirdweb Extension](https://github.com/gregfromstl/gregfromstl/blob/main/projects/Farcaster%20Thirdweb%20Extension.md)
 An SDK for interacting with the Farcaster contracts.
+
+## April 2024 - December 2024
+### [thirdweb SDK](https://www.npmjs.com/package/thirdweb)
+For much of 2024 I spent all my time building and maintaining the thirdweb SDK, including embedded wallets, AA, and more.
+
+## January 2025 - Present
+### [thirdweb Payments](https://thirdweb.com/payments)
+Lately I'm the lead developer on thirdweb Payments, an any-chain any-token cross-chain payment facilitator. Try it out [here](https://playground.thirdweb.com/payments/ui-components).
