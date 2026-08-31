@@ -28,6 +28,6 @@ An SDK for interacting with the Farcaster contracts.
 ### [thirdweb SDK](https://www.npmjs.com/package/thirdweb)
 For much of 2024 I spent all my time building and maintaining the thirdweb SDK, including embedded wallets, AA, and more.
 
-## January 2025 - Present
+## January 2025 - August 2025
 ### [thirdweb Payments](https://thirdweb.com/payments)
 Lately I'm the lead developer on thirdweb Payments, an any-chain any-token cross-chain payment facilitator. Try it out [here](https://playground.thirdweb.com/payments/ui-components).
